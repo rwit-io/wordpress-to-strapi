@@ -65,7 +65,7 @@ node upload_posts.js
 
 ## Blog
 
-You can also check our blog for a detailed step-by-step migration guide: [How to Migrate from WordPress to Strapi](https://www.rwit.io/blog/)
+You can also check our blog for a detailed step-by-step migration guide: [How to Migrate from WordPress to Strapi](https://www.rwit.io/blog/migrating-wordpress-to-strapi)
 
 ## Acknowledgments
 
